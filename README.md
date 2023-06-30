@@ -19,8 +19,8 @@
 5. Creación de función JSON para búsqueda por año mayor a 2020
     ![img4]()
 6. Visualización de los datos filtrados por la función JSON anterior
-    ![img5]()
-7. Creación de la base de datos "Matriz"
+   ![image](https://github.com/bryandelgado99/Procesadores-CouchDB/assets/117743650/291fe71c-cf8e-41ec-9674-7519152151e3)
+8. Creación de la base de datos "Matriz"
    ![image](https://github.com/bryandelgado99/Procesadores-CouchDB/assets/117743650/2161937e-b885-498d-b1fc-ad4fd7ee0111)
 
    
