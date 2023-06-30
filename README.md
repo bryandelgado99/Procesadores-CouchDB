@@ -13,8 +13,8 @@
 1. Creacion de base de datos en CouchDB para "Sucursal Sur"
    ![image](https://github.com/bryandelgado99/Procesadores-CouchDB/assets/117743650/aea1b9d9-d98a-48b2-b96e-bddb1e04a40c)
 2. Aplicación de archivo .ipynb con las instrucciones para el ingreso de datos a la base
-    ![img2]()
-4. Visualización de archivos en la base de datos
+   ![image](https://github.com/bryandelgado99/Procesadores-CouchDB/assets/117743650/fa804573-6c89-4eff-8dc5-038289984b9b)
+3. Visualización de archivos en la base de datos
     ![img3]()
 5. Creación de función JSON para búsqueda por año mayor a 2020
     ![img4]()
