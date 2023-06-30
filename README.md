@@ -21,6 +21,8 @@
 6. Visualización de los datos filtrados por la función JSON anterior
     ![img5]()
 7. Creación de la base de datos "Matriz"
+   ![image](https://github.com/bryandelgado99/Procesadores-CouchDB/assets/117743650/2161937e-b885-498d-b1fc-ad4fd7ee0111)
+
    
 ### Sucursal Norte (Danny Yanacallo)
 1. Creacion de base de datos en CouchDB para "Sucursal Sur"
