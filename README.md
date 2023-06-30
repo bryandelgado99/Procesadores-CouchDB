@@ -16,11 +16,11 @@
    ![image](https://github.com/bryandelgado99/Procesadores-CouchDB/assets/117743650/fa804573-6c89-4eff-8dc5-038289984b9b)
 3. Visualización de archivos en la base de datos
    ![image](https://github.com/bryandelgado99/Procesadores-CouchDB/assets/117743650/3b920289-1cc8-44c2-929b-041699f041a0)
-5. Creación de función JSON para búsqueda por año mayor a 2020
-    ![img4]()
-6. Visualización de los datos filtrados por la función JSON anterior
+4. Creación de función JSON para búsqueda por año mayor a 2020
+   ![image](https://github.com/bryandelgado99/Procesadores-CouchDB/assets/117743650/e642dd8e-37fb-432d-b333-d09fff5b865d)
+5. Visualización de los datos filtrados por la función JSON anterior
    ![image](https://github.com/bryandelgado99/Procesadores-CouchDB/assets/117743650/291fe71c-cf8e-41ec-9674-7519152151e3)
-8. Creación de la base de datos "Matriz"
+6. Creación de la base de datos "Matriz"
    ![image](https://github.com/bryandelgado99/Procesadores-CouchDB/assets/117743650/2161937e-b885-498d-b1fc-ad4fd7ee0111)
 
    
