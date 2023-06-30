@@ -61,7 +61,7 @@
 
 ### Sucursal Valles (Melany Sangucho)
 1. Creacion de base de datos en CouchDB para "Sucursal Valles"
-    [![img1]()](https://github.com/bryandelgado99/Procesadores-CouchDB/blob/main/README.md)
+    ![image](https://github.com/bryandelgado99/Procesadores-CouchDB/assets/117743859/2c3cfe33-b20c-4e4b-950e-381da20f4ab6)
 2. Aplicación de archivo .ipynb con las instrucciones para el ingreso de datos a la base
     ![image](https://github.com/bryandelgado99/Procesadores-CouchDB/assets/117743859/c32242d8-dfb6-4206-a78e-4fb8ab391aba)
 3. Visualización de archivos en la base de datos
