@@ -15,7 +15,7 @@
 2. Aplicación de archivo .ipynb con las instrucciones para el ingreso de datos a la base
    ![image](https://github.com/bryandelgado99/Procesadores-CouchDB/assets/117743650/fa804573-6c89-4eff-8dc5-038289984b9b)
 3. Visualización de archivos en la base de datos
-    ![img3]()
+   ![image](https://github.com/bryandelgado99/Procesadores-CouchDB/assets/117743650/3b920289-1cc8-44c2-929b-041699f041a0)
 5. Creación de función JSON para búsqueda por año mayor a 2020
     ![img4]()
 6. Visualización de los datos filtrados por la función JSON anterior
