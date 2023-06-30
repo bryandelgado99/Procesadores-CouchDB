@@ -26,15 +26,15 @@
    
 ### Sucursal Norte (Danny Yanacallo)
 1. Creacion de base de datos en CouchDB para "Sucursal Sur"
-    ![img1]()
+    ![img1](https://github.com/bryandelgado99/Procesadores-CouchDB/blob/main/images/Sucursal_centro/Database.png)
 2. Aplicación de archivo .ipynb con las instrucciones para el ingreso de datos a la base
-    ![img2]()
+    ![img2](https://github.com/bryandelgado99/Procesadores-CouchDB/blob/main/images/Sucursal_centro/Instrucciones.png)
 3. Visualización de archivos en la base de datos
-    ![img3]()
-4. Creación de función JSON para búsqueda por año mayor a 2020
-    ![img4]()
+    ![img3](https://github.com/bryandelgado99/Procesadores-CouchDB/blob/main/images/Sucursal_centro/Visualizacion%20.png)
+4. Creación de función JSON para búsqueda por numero de nucleos mayor o igual a 6
+    ![img4](https://github.com/bryandelgado99/Procesadores-CouchDB/blob/main/images/Sucursal_centro/funcion.png)
 5. Visualización de los datos filtrados por la función JSON anterior
-    ![img5]()
+    ![img5](https://github.com/bryandelgado99/Procesadores-CouchDB/blob/main/images/Sucursal_centro/Filtro.png)
    
 ### Sucursal Centro (Bryan Delgado)
 1. Creacion de base de datos en CouchDB para "Sucursal Centro"
